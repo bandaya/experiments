@@ -6,6 +6,7 @@ Experimentations of new fields:
 - AWS SQS/SNS experiments
 - event based application communication
 - reactive webapps
+- monitoring / structured logging
 
 
 
