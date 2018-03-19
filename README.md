@@ -8,5 +8,5 @@ Experimentations of new fields:
 - reactive webapps
 - monitoring / structured logging
 - AWS API Gateway with Swagger2 integration
-
+- deploy on Lambda
 
