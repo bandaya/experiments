@@ -7,6 +7,6 @@ Experimentations of new fields:
 - event based application communication
 - reactive webapps
 - monitoring / structured logging
-
+- AWS API Gateway with Swagger2 integration
 
 
